@@ -1,9 +1,9 @@
 {
-  "name": "@zeit/next-workers",
-  "version": "1.0.1-canary.1",
+  "name": "@blabu-com/next-workers",
+  "version": "1.0.1-canary.2",
   "main": "index.js",
   "license": "MIT",
-  "repository": "zeit/next-plugins",
+  "repository": "blabu-com/next-plugins",
   "peerDependencies": {
     "worker-loader": "^2.0.0"
   }
